@@ -1,0 +1,11 @@
+@font-face {
+font-family: 'Death Star Regular';
+font-style: normal;
+font-weight: normal;
+src: local('Death Star Regular'), url('./Death Star.woff') format('woff');
+}
+
+h1 {
+  font-family: 'Death Star Regular';
+  font-weight: 200;
+}
