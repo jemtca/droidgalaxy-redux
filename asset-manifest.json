@@ -1,0 +1,26 @@
+{
+  "files": {
+    "main.css": "/droidgalaxy-redux/static/css/main.d552d0f7.chunk.css",
+    "main.js": "/droidgalaxy-redux/static/js/main.b8e742a4.chunk.js",
+    "main.js.map": "/droidgalaxy-redux/static/js/main.b8e742a4.chunk.js.map",
+    "runtime-main.js": "/droidgalaxy-redux/static/js/runtime-main.f071fa31.js",
+    "runtime-main.js.map": "/droidgalaxy-redux/static/js/runtime-main.f071fa31.js.map",
+    "static/css/2.3b6f1bda.chunk.css": "/droidgalaxy-redux/static/css/2.3b6f1bda.chunk.css",
+    "static/js/2.0a5e073b.chunk.js": "/droidgalaxy-redux/static/js/2.0a5e073b.chunk.js",
+    "static/js/2.0a5e073b.chunk.js.map": "/droidgalaxy-redux/static/js/2.0a5e073b.chunk.js.map",
+    "index.html": "/droidgalaxy-redux/index.html",
+    "precache-manifest.4a2cbca9baddb02ab0c43ea2983c3fa6.js": "/droidgalaxy-redux/precache-manifest.4a2cbca9baddb02ab0c43ea2983c3fa6.js",
+    "service-worker.js": "/droidgalaxy-redux/service-worker.js",
+    "static/css/2.3b6f1bda.chunk.css.map": "/droidgalaxy-redux/static/css/2.3b6f1bda.chunk.css.map",
+    "static/css/main.d552d0f7.chunk.css.map": "/droidgalaxy-redux/static/css/main.d552d0f7.chunk.css.map",
+    "static/js/2.0a5e073b.chunk.js.LICENSE.txt": "/droidgalaxy-redux/static/js/2.0a5e073b.chunk.js.LICENSE.txt",
+    "static/media/App.css": "/droidgalaxy-redux/static/media/Death Star.701046a5.woff"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.f071fa31.js",
+    "static/css/2.3b6f1bda.chunk.css",
+    "static/js/2.0a5e073b.chunk.js",
+    "static/css/main.d552d0f7.chunk.css",
+    "static/js/main.b8e742a4.chunk.js"
+  ]
+}
