@@ -1,18 +1,18 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "59382d20d6c6040f20a4f0cb7d7b8bd7",
+    "revision": "2eeb52af2a14d5d2f5804d4d9111aae6",
     "url": "/droidgalaxy-redux/index.html"
   },
   {
-    "revision": "df7dbf30c28aae35ba5a",
-    "url": "/droidgalaxy-redux/static/css/2.3b6f1bda.chunk.css"
+    "revision": "5b675eeef57fcb53a7f8",
+    "url": "/droidgalaxy-redux/static/css/2.3c03f26f.chunk.css"
   },
   {
     "revision": "2568d66eb25966bbc313",
     "url": "/droidgalaxy-redux/static/css/main.d552d0f7.chunk.css"
   },
   {
-    "revision": "df7dbf30c28aae35ba5a",
+    "revision": "5b675eeef57fcb53a7f8",
     "url": "/droidgalaxy-redux/static/js/2.0a5e073b.chunk.js"
   },
   {
