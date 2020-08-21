@@ -14,7 +14,7 @@
 importScripts("https://storage.googleapis.com/workbox-cdn/releases/4.3.1/workbox-sw.js");
 
 importScripts(
-  "/droidgalaxy-redux/precache-manifest.5a5c0080dd631cbf3c0a56f83cbb37b9.js"
+  "/droidgalaxy-redux/precache-manifest.9151cd98fe41cdc620db1cbdd28c65a9.js"
 );
 
 self.addEventListener('message', (event) => {

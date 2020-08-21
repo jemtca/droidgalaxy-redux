@@ -1,15 +1,15 @@
 {
   "files": {
     "main.css": "/droidgalaxy-redux/static/css/main.d552d0f7.chunk.css",
-    "main.js": "/droidgalaxy-redux/static/js/main.e89cfa2f.chunk.js",
-    "main.js.map": "/droidgalaxy-redux/static/js/main.e89cfa2f.chunk.js.map",
+    "main.js": "/droidgalaxy-redux/static/js/main.87f16830.chunk.js",
+    "main.js.map": "/droidgalaxy-redux/static/js/main.87f16830.chunk.js.map",
     "runtime-main.js": "/droidgalaxy-redux/static/js/runtime-main.515ee477.js",
     "runtime-main.js.map": "/droidgalaxy-redux/static/js/runtime-main.515ee477.js.map",
     "static/css/2.3c03f26f.chunk.css": "/droidgalaxy-redux/static/css/2.3c03f26f.chunk.css",
     "static/js/2.ff8d114c.chunk.js": "/droidgalaxy-redux/static/js/2.ff8d114c.chunk.js",
     "static/js/2.ff8d114c.chunk.js.map": "/droidgalaxy-redux/static/js/2.ff8d114c.chunk.js.map",
     "index.html": "/droidgalaxy-redux/index.html",
-    "precache-manifest.5a5c0080dd631cbf3c0a56f83cbb37b9.js": "/droidgalaxy-redux/precache-manifest.5a5c0080dd631cbf3c0a56f83cbb37b9.js",
+    "precache-manifest.9151cd98fe41cdc620db1cbdd28c65a9.js": "/droidgalaxy-redux/precache-manifest.9151cd98fe41cdc620db1cbdd28c65a9.js",
     "service-worker.js": "/droidgalaxy-redux/service-worker.js",
     "static/css/2.3c03f26f.chunk.css.map": "/droidgalaxy-redux/static/css/2.3c03f26f.chunk.css.map",
     "static/css/main.d552d0f7.chunk.css.map": "/droidgalaxy-redux/static/css/main.d552d0f7.chunk.css.map",
@@ -21,6 +21,6 @@
     "static/css/2.3c03f26f.chunk.css",
     "static/js/2.ff8d114c.chunk.js",
     "static/css/main.d552d0f7.chunk.css",
-    "static/js/main.e89cfa2f.chunk.js"
+    "static/js/main.87f16830.chunk.js"
   ]
 }
