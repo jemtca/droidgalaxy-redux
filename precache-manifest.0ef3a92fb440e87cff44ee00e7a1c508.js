@@ -1,6 +1,6 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "5205cbfa4f275960ce9354f413c60aff",
+    "revision": "8d108d804fc73f8417f1edb5de9f2368",
     "url": "/droidgalaxy-redux/index.html"
   },
   {
@@ -8,7 +8,7 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/droidgalaxy-redux/static/css/2.3c03f26f.chunk.css"
   },
   {
-    "revision": "41043239bf0bee6ee1f0",
+    "revision": "c1927d9eea254ec674d9",
     "url": "/droidgalaxy-redux/static/css/main.d552d0f7.chunk.css"
   },
   {
@@ -20,8 +20,8 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/droidgalaxy-redux/static/js/2.ff8d114c.chunk.js.LICENSE.txt"
   },
   {
-    "revision": "41043239bf0bee6ee1f0",
-    "url": "/droidgalaxy-redux/static/js/main.87f16830.chunk.js"
+    "revision": "c1927d9eea254ec674d9",
+    "url": "/droidgalaxy-redux/static/js/main.a70c1a4e.chunk.js"
   },
   {
     "revision": "91691caea19a294db513",
