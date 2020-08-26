@@ -23,24 +23,25 @@ export const requestDroids = () => (dispatch) => {
       d.push(newDroid());
     }
 
-	for (let i = 1; i < 10; i++) {
-		fetch(`https://swapi.co/api/people/?page=${i}`)
+	fetch(`https://swapi.dev/api/species/2/`)
+	.then(response => response.json())
+	.then(data => {
+		for (let i = 0; i < data.people.length; i++) {
+			fetch(`https://${data.people[i].substring(7)}`)
 			.then(response => response.json())
 			.then(data => {
-				for (let j = 0; j < data.results.length; j++) {
-		            if (data.results[j].species[0] === 'https://swapi.co/api/species/2/') {
-		              let found = false;
-		              for (let x = 0; x < swapiLocal.length && !found; x++) {
-		                if (data.results[j].name === swapiLocal[x].name) {
-		                  data.results[j].homeworld = swapiLocal[x].homeworld;
-		                  found = true;
-		                }
-		              }
-		              d.push(data.results[j]);
-		            }
-	          	}
+
+				// changing the homeworld url to a real name
+				for (let j = 0; j < swapiLocal.length ; j++) {
+					if (data.name === swapiLocal[j].name) {
+						data.homeworld = swapiLocal[j].homeworld;
+					} 
+				}
+
+				d.push(data);
 				dispatch({ type: REQUEST_DROIDS_SUCCESS, payload: addingIndexKey(d) })
-			})
-			.catch(error => dispatch({ type: REQUEST_DROIDS_FAILED, payload: error }));
-	}
+			});
+		}
+	})
+	.catch(error => dispatch({ type: REQUEST_DROIDS_FAILED, payload: error }));
 }
