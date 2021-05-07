@@ -1,4 +1,3 @@
-
 # DroidGalaxy Project
 Repository to upload the droidgalaxy project.
 
@@ -6,9 +5,11 @@ Repository to upload the droidgalaxy project.
 A simple react app that filters based on user input in the search field.
 
 * Initial idea
-    * Display cards with unique images, names and emails using react state.
+    * Display cards with unique images, names, heights, masses, and homeworlds using react state.
 
 * Improvements
+	* Used of a free online REST API to get fake data.
+	* Added some style to keep the title and the search box always visible.
     * Used of redux framework to replace react state.
 
 ## Screenshot
