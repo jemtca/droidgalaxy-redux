@@ -1,24 +1,14 @@
 {
   "files": {
-    "main.css": "/droidgalaxy-redux/static/css/main.598cd69b.chunk.css",
-    "main.js": "/droidgalaxy-redux/static/js/main.4c89ecaf.chunk.js",
-    "main.js.map": "/droidgalaxy-redux/static/js/main.4c89ecaf.chunk.js.map",
-    "runtime-main.js": "/droidgalaxy-redux/static/js/runtime-main.056e694b.js",
-    "runtime-main.js.map": "/droidgalaxy-redux/static/js/runtime-main.056e694b.js.map",
-    "static/css/2.6d7c7915.chunk.css": "/droidgalaxy-redux/static/css/2.6d7c7915.chunk.css",
-    "static/js/2.bd7acc51.chunk.js": "/droidgalaxy-redux/static/js/2.bd7acc51.chunk.js",
-    "static/js/2.bd7acc51.chunk.js.map": "/droidgalaxy-redux/static/js/2.bd7acc51.chunk.js.map",
+    "main.css": "/droidgalaxy-redux/static/css/main.dfdc8fbc.css",
+    "main.js": "/droidgalaxy-redux/static/js/main.6663b559.js",
+    "static/media/Death Star.woff": "/droidgalaxy-redux/static/media/Death Star.bd640ece7eb717cbdf85.woff",
     "index.html": "/droidgalaxy-redux/index.html",
-    "static/css/2.6d7c7915.chunk.css.map": "/droidgalaxy-redux/static/css/2.6d7c7915.chunk.css.map",
-    "static/css/main.598cd69b.chunk.css.map": "/droidgalaxy-redux/static/css/main.598cd69b.chunk.css.map",
-    "static/js/2.bd7acc51.chunk.js.LICENSE.txt": "/droidgalaxy-redux/static/js/2.bd7acc51.chunk.js.LICENSE.txt",
-    "static/media/App.css": "/droidgalaxy-redux/static/media/Death Star.bd640ece.woff"
+    "main.dfdc8fbc.css.map": "/droidgalaxy-redux/static/css/main.dfdc8fbc.css.map",
+    "main.6663b559.js.map": "/droidgalaxy-redux/static/js/main.6663b559.js.map"
   },
   "entrypoints": [
-    "static/js/runtime-main.056e694b.js",
-    "static/css/2.6d7c7915.chunk.css",
-    "static/js/2.bd7acc51.chunk.js",
-    "static/css/main.598cd69b.chunk.css",
-    "static/js/main.4c89ecaf.chunk.js"
+    "static/css/main.dfdc8fbc.css",
+    "static/js/main.6663b559.js"
   ]
 }
