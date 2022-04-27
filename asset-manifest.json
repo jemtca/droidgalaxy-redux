@@ -1,14 +1,14 @@
 {
   "files": {
     "main.css": "/droidgalaxy-redux/static/css/main.dfdc8fbc.css",
-    "main.js": "/droidgalaxy-redux/static/js/main.02806566.js",
+    "main.js": "/droidgalaxy-redux/static/js/main.5088dd49.js",
     "static/media/Death Star.woff": "/droidgalaxy-redux/static/media/Death Star.bd640ece7eb717cbdf85.woff",
     "index.html": "/droidgalaxy-redux/index.html",
     "main.dfdc8fbc.css.map": "/droidgalaxy-redux/static/css/main.dfdc8fbc.css.map",
-    "main.02806566.js.map": "/droidgalaxy-redux/static/js/main.02806566.js.map"
+    "main.5088dd49.js.map": "/droidgalaxy-redux/static/js/main.5088dd49.js.map"
   },
   "entrypoints": [
     "static/css/main.dfdc8fbc.css",
-    "static/js/main.02806566.js"
+    "static/js/main.5088dd49.js"
   ]
 }
